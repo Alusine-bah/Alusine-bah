@@ -5,9 +5,10 @@
 </p>
 
 <p align="center">
-  🎓 Final-year <strong>BSc Electrical & Electronic Engineering</strong> student<br>
+  🎓 <strong>BSc graduate in Electrical & Electronic Engineering</strong><br>
   Islamic University of Technology (IUT), Dhaka, Bangladesh<br>
-  🏅 <strong>OIC Full Scholarship</strong> Recipient &nbsp;|&nbsp; 🌍 Sierra Leone
+  🏅 <strong>OIC Full Scholarship</strong> Recipient &nbsp;|&nbsp; 🌍 Sierra Leone<br>
+  🌐 <a href="https://alusine-bah.github.io">alusine-bah.github.io</a>
 </p>
 
 <p align="center">
@@ -25,7 +26,8 @@ intersection of **technology, health, and social impact**.
 My projects target real challenges in **West Africa and beyond** — from smart
 farming systems to public health research.
 
-- 🔭 Currently building: **IoT Framework for Aquaponics Farming (Sub-Saharan Africa)**
+- 🚀 Open to roles in **embedded systems, IoT, and sustainable technology**
+- 🔬 Completed BSc thesis: **IoT Framework for Aquaponics Farming (Sub-Saharan Africa)**
 - 🎓 Background in both **Engineering** and **Community Health Sciences**
 - 🏛️ Former President — International Students Community (500+ students, 30+ nationalities)
 - ⚽ Led EEE football team to **first championship in over a decade**
@@ -50,8 +52,13 @@ farming systems to public health research.
 
 | Project | Description | Tech |
 |---|---|---|
+| [📚 ScribeAcademic AI](https://scribe-academic-ai.vercel.app) ([code](https://github.com/Alusine-bah/scribe-academic-ai)) | AI tool that turns long education documents into action checklists, staff plans, and WhatsApp-ready summaries | Next.js · AI · OCR |
+| [⚡ Power Flow Engineering Calculator](https://alusine-bah.github.io/load-flow-calculator/) ([code](https://github.com/Alusine-bah/load-flow-calculator)) | Browser-based Newton-Raphson and Gauss-Seidel load flow analysis | JavaScript · Power Systems |
+| [⚡ Load Flow Solver](https://github.com/Alusine-bah/load-flow-solver) | Power flow solvers built from first principles | Python · NumPy · Power Systems |
+| [🌾 IoT Sensor Dashboard](https://alusine-bah.github.io/iot-sensor-dashboard/) | Live monitoring dashboard for an agricultural sensor network | JavaScript · Chart.js · IoT |
+| [☀️ Solar Budget Calculator](https://alusine-bah.github.io/solar-budget-calculator/) | Sizes a solar power system and estimates cost for any country | JavaScript · HTML · CSS |
 | [🌾 Crop Recommendation System](https://github.com/Alusine-bah/crop-recommendation-system) | ML model recommending best crop based on soil & weather data | Python · ML · Jupyter |
-| 🌊 IoT Aquaponics Framework *(in progress)* | Cloud-based smart farming system for Sub-Saharan Africa | IoT · Python · Cloud |
+| 🌊 IoT Aquaponics Framework *(BSc thesis, completed 2026)* | Intelligent sensor and locally hosted IoT framework for aquaponics farming in Sub-Saharan Africa | IoT · Embedded Systems · Control |
 
 ---
 
